@@ -21,7 +21,6 @@
 │   └── README_files        <- The images for README design
 ├── notebooks               <- The Jupyter notebooks' folder containing training and analysis
 │   ├── ddb_hack.ipynb      <- The Jupyter notebook containing the train/test experiments
-├── .gitignore              <- The Gitignore configuration
 ├── LICENSE                 <- The MIT License file 
 └── README.md               <- The top-level README file
 
