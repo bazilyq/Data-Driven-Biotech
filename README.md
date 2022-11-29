@@ -36,4 +36,4 @@ Metrics represented by MAE and RMSE speak for themselves.
 
 ## Mockup of the interface
 
-Web-interface for users created in Figma
+Web-interface for users created in Figma <img src="/mockup.png" alt="mockup"/>
